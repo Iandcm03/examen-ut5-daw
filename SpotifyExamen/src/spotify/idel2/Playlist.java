@@ -20,7 +20,7 @@ public class Playlist {
      * Calcula la duración total de la lista de reproducción en minutos.
      * La duración se obtiene dividiendo el total de segundos entre 60.
      *
-     * @return La duración total en minutos.
+     * @return La duración total en minutos.no me funciona nada
      */
     public double obtenerDuracionTotal() {
         return (double) totalSegundos / 60;
